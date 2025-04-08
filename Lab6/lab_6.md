@@ -1,5 +1,5 @@
-# LAB_6
-
+# LAB_6 Grasshopper
+## Getting Started
 ![alt text](01.PNG)
 ![alt text](02.PNG)
 ![alt text](03.PNG)
@@ -9,3 +9,89 @@
 ![alt text](07.PNG)
 ![alt text](08.PNG)
 ![alt text](09.PNG)
+
+## Command Line
+![alt text](10.PNG)
+![alt text](11.PNG)
+![alt text](12.PNG)
+![alt text](13.PNG)
+![alt text](14.PNG)
+![alt text](15.PNG)
+![alt text](16.PNG)
+![alt text](17.PNG)
+![alt text](18.PNG)
+![alt text](19.PNG)
+![alt text](20.PNG)
+![alt text](21.PNG)
+![alt text](22.PNG)
+![alt text](23.PNG)
+![alt text](24.PNG)
+![alt text](25.PNG)
+![alt text](26.PNG)
+![alt text](27.PNG)
+![alt text](28.PNG)
+## Text-Fu
+![alt text](29.PNG)
+![alt text](30.PNG)
+![alt text](31.PNG)
+![alt text](32.PNG)
+![alt text](33.PNG)
+![alt text](34.PNG)
+![alt text](35.PNG)
+![alt text](36.PNG)
+![alt text](37.PNG)
+![alt text](38.PNG)
+![alt text](39.PNG)
+![alt text](40.PNG)
+![alt text](41.PNG)
+![alt text](42.PNG)
+![alt text](43.PNG)
+![alt text](44.PNG)
+## Advanced Text-Fu
+![alt text](45.PNG)
+![alt text](46.PNG)
+![alt text](47.PNG)
+![alt text](48.PNG)
+![alt text](49.PNG)
+![alt text](50.PNG)
+![alt text](51.PNG)
+![alt text](52.PNG)
+![alt text](53.PNG)
+![alt text](54.PNG)
+
+## User Management
+![alt text](55.PNG)
+![alt text](56.PNG)
+![alt text](57.PNG)
+![alt text](58.PNG)
+![alt text](59.PNG)
+
+## Permissions
+
+![alt text](60.PNG)
+![alt text](61.PNG)
+![alt text](62.PNG)
+![alt text](63.PNG)
+![alt text](64.PNG)
+![alt text](65.PNG)
+![alt text](66.PNG)
+
+## Processes
+![alt text](67.PNG)
+![alt text](68.PNG)
+![alt text](69.PNG)
+![alt text](70.PNG)
+![alt text](71.PNG)
+![alt text](72.PNG)
+![alt text](73.PNG)
+![alt text](74.PNG)
+![alt text](75.PNG)
+![alt text](76.PNG)
+![alt text](77.PNG)
+
+## Packages
+![alt text](78.PNG)
+![alt text](79.PNG)
+![alt text](80.PNG)
+![alt text](81.PNG)
+![alt text](82.PNG)
